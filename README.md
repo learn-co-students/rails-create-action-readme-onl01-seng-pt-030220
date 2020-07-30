@@ -38,7 +38,7 @@ behavior we had in the console:
 
 2. Pass in the parameters from the form
 
-3. Save the record
+3. Save the record 
 
 To build this behavior initially, let's copy and paste the code that we ran in
 the console. The only key difference is that now, instead of assigning
